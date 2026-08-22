@@ -221,6 +221,7 @@ Based on the trained Decision Tree classifier, the following business rules were
 |   |   |--- class: 1 (VIP Customer)
 |   |--- SupportType >  5.50
 |   |   |--- class: 0 (Regular Customer)
+```
 
 ---
 
